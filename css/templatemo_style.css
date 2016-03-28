@@ -1,0 +1,305 @@
+/*
+CSS Credit: http://www.templatemo.com/
+*/
+
+/* 
+Music Template 
+http://www.templatemo.com/preview/templatemo_047_music 
+*/
+.rantsection {
+	height: 13px;
+	margin-bottom: 10px;
+}
+
+.rantsection img {
+	float: left;
+	height: 13px;
+	width: 13px;
+	border: 0px;
+	margin-right: 5px;
+}
+
+.more_button a{
+	clear: both;
+	text-align: center;
+	display: block;
+	width: 60px;
+	padding: 1px 0;
+	margin-bottom: 5px; 
+	background: #6c5b4c;
+	border-bottom: 1px solid #a59180;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.download_button a{
+	float: right;
+	text-align: center;
+	width: 65px;
+	padding: 1px 0;
+	background-color: transparent;
+	border-bottom: 1px solid #a59180;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+img {
+	border: 1px solid #6c5b4c;
+}
+
+
+
+
+#templatemo_container {
+	margin: 0px auto;
+	width: 970px;
+	background: url(images/main_background.gif) repeat-y;
+}
+
+/*------------ Header --------------- */
+
+#templatemo_header {
+	float: left;
+	width: 900px;
+	padding: 0 35px;
+	margin: 15px 0 10px 0;
+}
+
+#templatemo_title {
+	float: left;
+	width: 300px;
+}
+
+#templatemo_sitetitle {
+	padding: 30px 0 10px 0;
+	font-size: 4.0em;
+	font-weight: bold;
+	color: #FF9933;
+}
+#templatemo_sitetitle span{
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+#templatemo_login {
+	float: right;
+	margin-top: 25px;
+	width: 300px;
+}
+/* -------------- End of Header------------------ */
+
+/* --------- Banner ---------- */
+#templatemo_banner {
+	clear: both;
+	width: 970px;
+	height: 256px;
+	background: url(images/banner.jpg) no-repeat;
+}
+
+#templatemo_banner_text {
+	padding: 60px 0 0 225px;
+	width: 550px;
+}
+
+#banner_title{
+	margin: 0 0 25px 0;
+	padding: 0;
+	font-size: 24px;
+	font-weight: bold;
+	color: #ffc601;
+}
+
+#templatemo_banner_text p{
+	margin: 0 0 25px 0;
+	padding: 0;
+}
+
+/* --------- End of Banner ---------- */
+
+/*--- Menu ---*/
+#templatemo_menu{
+padding-top: 20px;
+	float: left;
+	width: 970px;
+	height: 51px;
+	background: url(images/menu_background.gif) no-repeat;
+}
+
+#templatemo_menu ul {
+	float: left;
+	margin: 0;
+	padding: 10px 0 0 40px;
+	list-style: none;
+}
+
+#templatemo_menu ul li{
+	display: inline;
+}
+
+#templatemo_menu ul li a{
+	float: left;
+	width: 140px;
+	height: 20px;
+	margin-top: 10px;
+	padding: 0;
+	font-size: 1.1em;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+}
+
+#templatemo_menu ul li .lastmenu{
+	border-right: none;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current{
+	color: #FFCC33;
+}
+/*--- End of Menu ---*/
+
+/*--- Content ---*/
+#templatemo_content {
+	float: left;
+	margin: 0;
+	padding: 0 10px;
+	width: 1100px;
+}
+
+/*--- Left Column---*/
+
+
+/*--- Right Column---*/
+#templatemo_right_column {
+	float: center;
+	margin: 25px 85px 0 80px;
+	padding-top: 20px;
+	width: 650px;
+left: 200px;
+
+}
+
+.templatemo_right_panel_fullwidth {
+	float: left;
+	width: 650px;
+	padding: 0 0 25px 0;
+}
+
+.templatemo_right_panel_fullwidth img{
+	float: left;
+	margin: 3px 10px 0 0;
+}
+
+.templatemo_right_panel_fullwidth_content {
+	float: left;
+	width: 620px;
+	padding: 0 15px 25px 15px;
+}
+
+.templatemo_right_panel_fullwidth_content p{
+	text-align: justify;
+}
+
+#new_released_section {
+	float: left;
+	width: 650px;
+	margin: 0 0 30px 0;
+}
+
+.new_released_box {
+	float: left;
+	width: 180px;
+	margin: 0 10px 0 15px;	
+}
+
+.new_released_box img{
+	margin-bottom: 5px;
+}
+
+.new_released_box .sp {
+visibility:hidden;
+
+}
+
+.new_released_box:hover .sp{
+/*box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+					inset 0 -15px 30px rgba(0,0,0,0.4),
+							0 5px 10px rgba(0,0,0,0.5);
+		*/
+	 visibility:visible;	
+}
+
+
+
+
+
+
+
+
+
+
+
+#news_section {
+	float: left;
+	width: 310px;
+	margin: 0 25px 0 0;
+}
+
+.news_box {
+	float: left;
+	width: 280px;
+	margin: 0 15px 25px 15px;
+}
+
+.news_box img{
+	float: left;
+	width: 110px;
+	margin: 3px 10px 0 0;
+	border: 1px solid #333333;
+}
+
+.news_box p{
+	margin: 0;
+	padding: 0;
+}
+
+#topdownload_section {
+	background-color: transparent;
+	float: right;
+	width: 300px;
+	padding: 0;
+	margin: 0;
+	//background: #99836c;
+}
+
+.topdownload_box {
+	float: left;
+	width: 270px;
+	padding-bottom: 5px;
+	margin: 0 15px 10px 15px;
+	color: #24211d;
+	font-weight: bold;
+	border-bottom: 1px solid #6b5946;
+	
+}
+
+* html .topdownload_box {
+	margin: 0 15px 10px 7px;
+	
+}
+
+.topdownload_box span{
+	font-weight: normal;
+	background-color: transparent;
+}
+
+.title_singer{
+	float: left;
+	width: 200px;
+}
+/*--- End of Right Column---*/
+/*--- End of Content ---*/
+
