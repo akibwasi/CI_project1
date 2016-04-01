@@ -1,5 +1,5 @@
 <body>
-<h1> Forum Index </h1>
+<h1> Forum Indexx </h1>
 <!--
 <div id="popupbox"> 
  <h1>Search song</h1>
